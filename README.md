@@ -2,6 +2,31 @@
 
 A classical Indian music practice companion — digital instruments (Tabla, Tanpura, Swar Mandal, Manjeera) that sync around rhythmic cycles called **taals**.
 
+
+# Music Learning App
+
+A music learning app I made for a friend. Inspired by other paid apps but made it free.
+
+## Why?
+
+My friend wanted to learn music but didn't want to pay for expensive apps. So I tried to replicate those apps and make something that works. Got some help from AI assisted coding agents like opencode.
+
+## What it does
+
+- Learn music notes
+- Practice exercises
+- Basic music theory
+- Simple interactive lessons
+
+## Built with
+
+- Flutter
+- Dart
+- just_audio (for sounds)
+- Some custom widgets I made
+
+
+
 ## Project structure
 
 ```
@@ -54,5 +79,3 @@ Replace the placeholder MP3s under `assets/audio/` with real WAV/OGG loops. Upda
 | `dart format .` | Format all Dart code |
 | `dart run build_runner build` | Regenerate `.g.dart` files after `@riverpod` edits |
 | `flutter test` | Run tests |
-
-After editing any `@riverpod` provider in `lib/providers/`, run `dart run build_runner build --delete-conflicting-outputs`.
