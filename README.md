@@ -23,7 +23,7 @@ My friend wanted to learn music but didn't want to pay for expensive apps. So I 
 - Flutter
 - Dart
 - just_audio (for sounds)
-- Some custom widgets I made
+- 
 
 
 
